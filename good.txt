@@ -1,6 +1,6 @@
 aaaaaa
 bbbbbb
-bbbbbb
+bbbbb edit by master
 cfqewqwe
 clef
 hello world git
