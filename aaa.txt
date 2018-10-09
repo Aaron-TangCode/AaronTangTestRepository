@@ -1,7 +1,1 @@
-asdadwerqaaaaaaaa
-b
-basdasd
-asdadsqwe
-asdfsadfsa
-modified by hot-fix
-the weather is hot
+这是git和github的远程测试1
