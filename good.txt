@@ -1,8 +1,1 @@
-aaaaaa
-bbbbbb
-bbbbb edit by master
-cfqewqwe
-clef
-hello world git
-test1
-test2 
+这是git和github的远程测试2 
